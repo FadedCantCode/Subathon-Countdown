@@ -3,7 +3,7 @@
 <br/>
 
 <h2>Description</h2>
-<p>A subathon timer that increases when someone subscribes, donates money, donates bits or purchases streamloots chests.</p>
+<p>* A subathon timer that increases when someone subscribes, donates money, donates bits or purchases streamloots chests.</p>
 <br/>
 
 <h2>Preview</h2>
