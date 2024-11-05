@@ -1,5 +1,5 @@
 <h1 align="center">Subathon Countdown</h1>
-<p align="center">A Twitch Subathon Countdown Tool</p>
+<p align="center">A Subathon Countdown Tool</p>
 <br/>
 
 <h2>Description</h2>
