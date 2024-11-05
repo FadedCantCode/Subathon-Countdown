@@ -19,7 +19,7 @@
 
 <h3>StreamElements Token</h3>
 <p>To get the token you'll have to go to your <a href="https://streamelements.com/dashboard/account/channels">StreamElements channels dashboard</a>, then click on show secrets, copy the Overlay token and paste the code on the "streamelements_token" variable in the "config.js" file.</p>
-<img src="./auth_streamelements.png">
+
 
 <h3>Streamloots Token</h3>
 <p>To get the token you'll have to go to your Streamloots creator dashboard, then to alerts & widgets, then go to alerts, then copy the last part of the alerts url and finally paste the code on the "streamloots_token" variable in the "config.js" file.</p>
