@@ -1,4 +1,4 @@
-<h1 align="center">Twitch Subathon Countdown</h1>
+<h1 align="center">Subathon Countdown</h1>
 <p align="center">A Twitch Subathon Countdown Tool</p>
 <br/>
 
